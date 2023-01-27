@@ -1,5 +1,5 @@
 # Task
-Your task is to create your own Business Card with HTML and CSS as presented in design under the Business Card project section in BigDevSoon. Dive into Frontend development and produce a very first, yet beautiful website that could serve as your professional Developer Portfolio! 🤗
+Your task is to create your own Business Card Website with HTML and CSS as presented in design under the Business Card project section in BigDevSoon. Dive into Frontend development and produce a very first, yet beautiful website that could serve as your professional Developer's Portfolio! 🤗
 
 ## Prerequisites
 You can choose any technologies of your own preference, the same applies to any tools, libraries, frameworks and everything related. We want you to have fun building this project and composing a technology stack that plays well with your taste.

@@ -13,7 +13,7 @@ You can choose any technologies of your own preference, the same applies to any 
 - [ ] Users can click on the phone and it'll start the call. (on the Mobile version).
 - [ ] Add some animations, we recommend a Fade In animation for example. (when the website is first loaded).
 - [ ] A bit more advanced: add skeleton animation for the image while it's loading. 👀
-- [ ] Add anything else that you'd like to see in your own Business Card, some more icons, skills, lazy load animation, go crazy! 🎉
+- [ ] Add anything else that you'd like to see in your own Business Card, some more icons, skills, go crazy! 🎉
 
 ## Deployment
 Once you are ready with the project and unlocked the Complete step, you can try deploying the project to Vercel, Netlify, or GitHub Pages. One important thing to remember is that we've added a `<bds />` tag to the `index.html` file and will do a check against it while trying to add a Project URL. Don't forget it! 😊

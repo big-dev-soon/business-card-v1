@@ -6,13 +6,11 @@ You can choose any technologies of your own preference, the same applies to any 
 
 ## Requirements
 
-- [ ] The website looks similar to the design and is implemented as a Desktop version.
-- [ ] Icons should be clickable and redirect users to external pages in a new tab.
-- [ ] Users can click on the email and the default email client will open.
-- [ ] Users can click on the phone and it'll start the call. (on the Mobile version).
-- [ ] Add some animations, we recommend a Fade In animation for example. (when the website is first loaded).
-- [ ] A bit more advanced: add skeleton animation for the image while it's loading. 👀
-- [ ] Add anything else that you'd like to see in your own Business Card, some more icons, skills, go crazy! 🎉
+- [ ] The website looks similar to the design and is implemented as a Desktop version only.
+- [ ] Icons should be clickable with a hover effect and redirect users to external pages in a new tab.
+- [ ] Users can hover over and click on the email and it'll have the proper `mailto` link.
+- [ ] Users can hover over and click on the phone and it'll have the proper `tel` link.
+- [ ] Add animations, we recommend a Fade In when the website is loaded and skeleton animation for the loading image.
 
 ## Deployment
 Once you are ready with the project and unlocked the Complete step, you can try deploying the project to Vercel, Netlify, or GitHub Pages. One important thing to remember is that we've added a `<bds />` tag to the `index.html` file and will do a check against it while trying to add a Project URL. Don't forget it! 😊

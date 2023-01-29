@@ -7,7 +7,6 @@ You can choose any technologies of your own preference, the same applies to any 
 ## Requirements
 
 - [ ] The website looks similar to the design and is implemented as a Desktop version.
-- [ ] The website looks similar to the design and is implemented as a Mobile version.
 - [ ] Icons should be clickable and redirect users to external pages in a new tab.
 - [ ] Users can click on the email and the default email client will open.
 - [ ] Users can click on the phone and it'll start the call. (on the Mobile version).
